@@ -1,27 +1,40 @@
-## Projeto individual do módulo 4 - CDA
+## <a href="#"><img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a> Projeto individual do módulo 4 - CDA 
 
-- Seu projeto precisa possuir uma evidência de entrega no arquivo README.md, ou seja, um pequeno parágrafo com uma explicação do que foi feito no projeto e a defesa das escolhas que você tomou.
+**Contexto:** *Uma ferramenta que vai receber uma lista de propriedades de CSS (ex: 
+background-color, font-size, text-align) e vai devolvê-la ordenada de A-Z.
+Você deve utilizar o Node para criar o código responsável por
+implementar essa ferramenta na linha de comando.*
 
-## 🚀 Como instalar
+## 🛠️ Como instalar e rodar o App
 
-Como clonar o repositório:
- - Abra o terminal e dê o comando:
+ Tenha o Node.js instalado, caso ainda não tenha, faça o download no link abaixo: 
+
+- [Download Node.js](https://nodejs.org/)
+
+Clone o repositório no terminal com o seguinte comando:
 
 ```
 git clone https://github.com/julianebueno/projetoIndividual4-CDA.git
 ```
 
-Para rodar a aplicação:
- - No terminal, dê os comandos na seguinte ordem:
+Entre na pasta onde estão os aquivos:
 
 ```
-cd .\projetoIndividual4-CDA\src\
+cd .\projetoIndividual4-CDA\
+```
+Instale os pacotes necessários para a ferramenta funcionar:
+```
 npm install prompt-sync
-node .\app.js
+```
+Rode o App:
+```
+npm start
 ```
 
-### Bibliografia / Inspirações
-<hr>
+## 🚀 Resultados
+
+
+## 📄 Referências / Inspirações
 
 [Getting User Input in Node.js](https://www.codecademy.com/article/getting-user-input-in-node-js)
 
