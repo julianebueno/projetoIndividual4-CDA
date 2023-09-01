@@ -33,9 +33,27 @@ npm start
 
 ## 🚀 Resultados
 
+- Início com saudação e informações
+
+![imagemSaudação](./src/utils/images/a-saudacao.png)
+
+- Mensagens de erro e acerto
+
+![imagemInput1](./src/utils/images/b-input1.png)
+![imagemInput2](./src/utils/images/c-input2.png)
+
+- Recebimento de propriedades de forma aleatória
+
+![imagemInput3](./src/utils/images/d-input3.png)
+
+- Final com a apresentação da lista em ordem alfabética
+
+![imagemFinal](./src/utils/images/e-final.png)
 
 ## 📄 Referências / Inspirações
 
 [Getting User Input in Node.js](https://www.codecademy.com/article/getting-user-input-in-node-js)
+
+[JavaScript Array Reference](https://www.w3schools.com/jsref/jsref_obj_array.asp)
 
 [ASCII Art Archive](https://www.asciiart.eu/art-and-design)
