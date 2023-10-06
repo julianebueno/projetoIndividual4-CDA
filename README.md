@@ -1,15 +1,17 @@
 ## <a href="#"><img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a> Projeto individual do módulo 4 - CDA 
 
-**Contexto:** *Uma ferramenta que vai receber uma lista de propriedades de CSS (ex: 
-background-color, font-size, text-align) e vai devolvê-la ordenada de A-Z.
-Você deve utilizar o Node para criar o código responsável por
-implementar essa ferramenta na linha de comando.*
+**Contexto:** *Uma ferramenta que vai receber uma lista de propriedades de CSS (ex: background-color, font-size, text-align) e vai devolvê-la ordenada de A-Z.
+Você deve utilizar o Node para criar o código responsável por implementar essa ferramenta na linha de comando.*
 
 ## 🛠️ Como instalar e rodar o App
 
  Tenha o Node.js instalado, caso ainda não tenha, faça o download no link abaixo: 
 
 - [Download Node.js](https://nodejs.org/)
+
+### <img align="center" alt="windows" height="20" width="20" src="https://github.com/julianebueno/projetoIndividual4-CDA/assets/101444020/d8ff721d-cea2-4ea5-bdde-fd790c6e155f"> Windows
+
+✔️ Testado no CMD e Powershell
 
 Clone o repositório no terminal com o seguinte comando:
 
